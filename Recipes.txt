@@ -5,7 +5,9 @@ welcome to the kitchen
 chicken
 mutton
 fish fry
-
+beans
+pits
+cucumber
 
 
 thank you
